@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+dist/
+# harvest products rebuilt by harvest.py; only the enriched articles.json is committed
+data/cache/
+data/raw.json
+data/harvest.log
+data/shortlist_all.txt

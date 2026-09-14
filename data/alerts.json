@@ -1,0 +1,260 @@
+{
+  "_source": "A read-only mailbox search on 2026-09-08 for journal table-of-contents alerts over the previous 400 days.",
+  "_finding": "Only the University of Chicago Press sends table-of-contents alerts, and only for three journals. The other 24 journals on the shelf send nothing at all - a new issue is discovered about a new issue only by opening the bookmark.",
+  "_titles_note": "Titles marked \"prefix\": true came from the Gmail list snippet and are cut off mid-sentence; the dashboard matches them by prefix. The rest were read from the full message body.",
+  "alerts": [
+    {
+      "journal": "jpe",
+      "date": "2026-09-01",
+      "subject": "New from Journal of Political Economy: Ahead of print and Just accepted articles",
+      "titles": [
+        {
+          "t": "Connecting Common Ratio and Common Consequence Preferences"
+        },
+        {
+          "t": "The Long Run Economic Effects of Medical Innovation and the Role of Opportunities"
+        },
+        {
+          "t": "Who Values Democracy?"
+        },
+        {
+          "t": "Collusion through Common Leadership"
+        },
+        {
+          "t": "Using Consumption Data to Derive Optimal Top Income and Capital Tax Rates"
+        },
+        {
+          "t": "Not Learning from Others"
+        },
+        {
+          "t": "The Macroeconomic Dynamics of Labor Market Polices"
+        },
+        {
+          "t": "Strategic Wishful Thinking: Implications for Forecasts"
+        },
+        {
+          "t": "The Impact of Unions on Nonunion Wage Setting: Threats and Bargaining"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-08-01",
+      "titles": [
+        {
+          "t": "Markups: A Search-Theoretic Perspective"
+        },
+        {
+          "t": "Optimal Tests Following Sequential",
+          "prefix": true
+        },
+        {
+          "t": "How to Get Away with Merger: Stealth Consolidation and Its Effects on US Dialysis"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-07-01",
+      "titles": [
+        {
+          "t": "Robust Estimation and Inference in Panels with Interactive Fixed Effects"
+        },
+        {
+          "t": "Why Is Intermediating Houses So Difficult? Evidence from iBuyers"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-06-01",
+      "titles": [
+        {
+          "t": "The Origin of the State: Land Productivity or Appropriability?"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-05-01",
+      "titles": [
+        {
+          "t": "The Zero-Beta Interest Rate"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-04-01",
+      "titles": [
+        {
+          "t": "A Model of Social Duties"
+        },
+        {
+          "t": "Private Private Information"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-03-01",
+      "titles": [
+        {
+          "t": "Indirect Persuasion"
+        },
+        {
+          "t": "Efficiency and Redistribution in",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-02-01",
+      "titles": [
+        {
+          "t": "Gender, Confidence, and the Mismeasure of Intelligence, Competitiveness, and Literacy"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2026-01-01",
+      "titles": [
+        {
+          "t": "Algorithm Design: A Fairness-Accuracy Frontier"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2025-12-01",
+      "titles": [
+        {
+          "t": "Trade with Nominal Rigidities: Understanding the Unemployment and Welfare Effects of the China",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2025-11-01",
+      "titles": [
+        {
+          "t": "Rules versus Discretion: Treatment of Mental Illness in US Adolescents"
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2025-10-01",
+      "titles": [
+        {
+          "t": "Robert Lucas's Models of Firm Size Distributions and Investment"
+        },
+        {
+          "t": "Vacancy",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "jpe",
+      "date": "2025-09-01",
+      "titles": [
+        {
+          "t": "Selecting Penalty Parameters of High-Dimensional M-Estimators Using Bootstrapping after Cross",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "apt",
+      "date": "2026-07-15",
+      "issue": "Volume 15, Number 3, Summer 2026",
+      "titles": [
+        {
+          "t": "Jane Addams and Snobbery as a Democratic Vice"
+        }
+      ]
+    },
+    {
+      "journal": "apt",
+      "date": "2026-04-14",
+      "issue": "Volume 15, Number 2, Spring 2026",
+      "titles": [
+        {
+          "t": "Cormac McCarthy's Platonic Dialogues: The Problem of",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "apt",
+      "date": "2026-02-05",
+      "issue": "Volume 15, Number 1, Winter 2026",
+      "titles": [
+        {
+          "t": "Public Reason in and out of the Well-Ordered Society"
+        }
+      ]
+    },
+    {
+      "journal": "apt",
+      "date": "2025-10-25",
+      "issue": "Volume 14, Number 4, Fall 2025",
+      "titles": [
+        {
+          "t": "Frederick Douglass's Five-Decade Fight against",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "jole",
+      "date": "2026-07-10",
+      "issue": "Volume 44, Number 3, July 2026",
+      "titles": [
+        {
+          "t": "Profits of Prejudiced Algorithms"
+        },
+        {
+          "t": "When Is",
+          "prefix": true,
+          "skip": true
+        }
+      ]
+    },
+    {
+      "journal": "jole",
+      "date": "2026-04-02",
+      "issue": "Volume 44, Number 2, April 2026",
+      "titles": [
+        {
+          "t": "College Networks: The Importance of Employer Connections"
+        }
+      ]
+    },
+    {
+      "journal": "jole",
+      "date": "2026-01-14",
+      "issue": "Volume 44, Number 1, January 2026",
+      "titles": [
+        {
+          "t": "Work Boots to Combat Boots: Mass Layoffs and Military",
+          "prefix": true
+        }
+      ]
+    },
+    {
+      "journal": "jole",
+      "date": "2025-10-07",
+      "issue": "Volume 43, Number 4, October 2025",
+      "titles": [
+        {
+          "t": "Multirater Performance Evaluations and Incentives"
+        }
+      ]
+    }
+  ]
+}

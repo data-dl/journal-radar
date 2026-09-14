@@ -1,0 +1,164 @@
+{
+ "nous": {
+  "source_id": "S170801797",
+  "display_name": "No\u00fbs",
+  "n_by_id": 54,
+  "n_by_issn": 54
+ },
+ "ethics": {
+  "source_id": "S184849641",
+  "display_name": "Ethics",
+  "n_by_id": 62,
+  "n_by_issn": 62
+ },
+ "philstudies": {
+  "source_id": "S147022693",
+  "display_name": "Philosophical Studies",
+  "n_by_id": 196,
+  "n_by_issn": 196
+ },
+ "mind": {
+  "source_id": "S37480348",
+  "display_name": "Mind",
+  "n_by_id": 74,
+  "n_by_issn": 74
+ },
+ "philreview": {
+  "source_id": "S35579339",
+  "display_name": "The Philosophical Review",
+  "n_by_id": 49,
+  "n_by_issn": 49
+ },
+ "jphil": {
+  "source_id": "S41650241",
+  "display_name": "The Journal of Philosophy",
+  "n_by_id": 12,
+  "n_by_issn": 12
+ },
+ "aristotelian": {
+  "source_id": "S4210167481",
+  "display_name": "Proceedings of the Aristotelian Society (Hardback)",
+  "n_by_id": 13,
+  "n_by_issn": 13
+ },
+ "jhp": {
+  "source_id": "S80702723",
+  "display_name": "Journal of the history of philosophy",
+  "n_by_id": 79,
+  "n_by_issn": 79
+ },
+ "philtopics": {
+  "source_id": "S117069359",
+  "display_name": "Philosophical Topics",
+  "n_by_id": 0,
+  "n_by_issn": 0
+ },
+ "imprint": {
+  "source_id": "S988140095",
+  "display_name": "Philosophers Imprint",
+  "n_by_id": 24,
+  "n_by_issn": 24
+ },
+ "synthese": {
+  "source_id": "S255146",
+  "display_name": "Synthese",
+  "n_by_id": 554,
+  "n_by_issn": 554
+ },
+ "ppr": {
+  "source_id": "S204374153",
+  "display_name": "Philosophy and Phenomenological Research",
+  "n_by_id": 103,
+  "n_by_issn": 103
+ },
+ "pq": {
+  "source_id": "S81959571",
+  "display_name": "The Philosophical Quarterly",
+  "n_by_id": 84,
+  "n_by_issn": 84
+ },
+ "analysis": {
+  "source_id": "S121299002",
+  "display_name": "Analysis",
+  "n_by_id": 121,
+  "n_by_issn": 121
+ },
+ "jpe": {
+  "source_id": "S95323914",
+  "display_name": "Journal of Political Economy",
+  "n_by_id": 95,
+  "n_by_issn": 95
+ },
+ "econometrica": {
+  "source_id": "S95464858",
+  "display_name": "Econometrica",
+  "n_by_id": 57,
+  "n_by_issn": 57
+ },
+ "aer": {
+  "source_id": "S23254222",
+  "display_name": "American Economic Review",
+  "n_by_id": 122,
+  "n_by_issn": 122
+ },
+ "qje": {
+  "source_id": "S203860005",
+  "display_name": "The Quarterly Journal of Economics",
+  "n_by_id": 45,
+  "n_by_issn": 45
+ },
+ "jole": {
+  "source_id": "S8557221",
+  "display_name": "Journal of Labor Economics",
+  "n_by_id": 33,
+  "n_by_issn": 33
+ },
+ "ajps": {
+  "source_id": "S90314269",
+  "display_name": "American Journal of Political Science",
+  "n_by_id": 80,
+  "n_by_issn": 80
+ },
+ "arps": {
+  "source_id": "S8194976",
+  "display_name": "Annual Review of Political Science",
+  "n_by_id": 27,
+  "n_by_issn": 27
+ },
+ "apt": {
+  "source_id": "S2735640579",
+  "display_name": "American Political Thought",
+  "n_by_id": 35,
+  "n_by_issn": 35
+ },
+ "lancet": {
+  "source_id": "S49861241",
+  "display_name": "The Lancet",
+  "n_by_id": 1432,
+  "n_by_issn": 1432
+ },
+ "nejm": {
+  "source_id": "S62468778",
+  "display_name": "New England Journal of Medicine",
+  "n_by_id": 1024,
+  "n_by_issn": 1024
+ },
+ "lancetpsych": {
+  "source_id": "S2531556786",
+  "display_name": "The Lancet Psychiatry",
+  "n_by_id": 222,
+  "n_by_issn": 222
+ },
+ "jamapsych": {
+  "source_id": "S2495708506",
+  "display_name": "JAMA Psychiatry",
+  "n_by_id": 237,
+  "n_by_issn": 237
+ },
+ "ajph": {
+  "source_id": "S168049282",
+  "display_name": "American Journal of Public Health",
+  "n_by_id": 111,
+  "n_by_issn": 111
+ }
+}
