@@ -6,11 +6,11 @@ Written 8 September 2026, for whoever picks this up next.
 
 Both browsers were read directly, not exported by hand:
 
-- **Firefox** — `places.sqlite` in profile `ag1c53rs.default-release`. Copy the
+- **Firefox** — `places.sqlite` in the profile folder. Copy the
   `-wal` and `-shm` files alongside it or the tables come back empty; the first
   attempt did exactly that and `moz_bookmarks` appeared not to exist.
 - **Chrome** — `Default/AccountBookmarks`, not `Bookmarks`. The plain `Bookmarks`
-  file is absent on this machine; only `Bookmarks.bak` sits beside the account one.
+  file can be absent when the browser is signed in; only `Bookmarks.bak` sits beside the account one.
 
 There are seven folders named `Journals` across the two browsers, most of them
 duplicates from old Vivaldi and Firefox imports, two of them in a `Trash` tree.
@@ -21,8 +21,8 @@ there is nothing in one that is missing from the other.
 ## The two journals that are not bookmarked
 
 *Journal of Labor Economics* and *American Political Thought* are on the shelf
-because Gmail says he follows them, not because a bookmark says so. They carry
-`bookmarked=False` in `journals.py` and are labelled in the UI. If he ever says
+because the mailbox says they are followed, not because a bookmark says so. They carry
+`bookmarked=False` in `journals.py` and are labelled in the UI. If anyone asks
 "why are these here", that is the answer.
 
 ## Identifiers fail silently — always run verify_sources.py
@@ -87,7 +87,7 @@ issue number get none, correctly.
 titles from the alert bodies are matched by prefix because the ones taken from list
 snippets are truncated mid-sentence; those carry `"prefix": true`.
 
-Only `press.uchicago.edu` sends him anything. That was checked broadly — searches
+Only `press.uchicago.edu` sends anything. That was checked broadly — searches
 across OUP, Wiley, Springer, Elsevier, JAMA, NEJM, AEA, Duke and Annual Reviews
 returned nothing but marketing.
 
@@ -105,7 +105,7 @@ the abstract text at build time — the whole point is that a person wrote them.
 
 ## Design decisions that are deliberate
 
-- **Light by default**, per his standing preference. Both themes are defined at
+- **Light by default**, a standing preference. Both themes are defined at
   token level; the dark set is chosen, not inverted.
 - **Field colours** are the dataviz reference palette's first four slots in its
   validated order — blue, orange, aqua, yellow. Three of them fall under 3:1 on
